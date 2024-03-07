@@ -5,7 +5,7 @@ Vamos a repasar las tablas, condiciones, generación de código JS document.writ
 ## Estructura de Archivos
 Pasamos a resumir la funcionalidad de cada fichero.
 ### 00-mult.html
-uso for. Generamos una tabla '<table></table>' estática para mostrr información.
+uso for. Generamos una tabla <table></table> estática para mostrr información.
 ### 01-mult-modelo.html
 Asignamos a las celdas valores dinámicos.
 ### 02-mult.html
@@ -15,7 +15,7 @@ Introducimos mediante prompt, el imite inferio y superior. Validamos las entrada
 ### 04-mult-semaforo.html
 Para obtener errores personalizados separamos las condiciones de error.
 ### 05-mult-input_error.html
-Ponemos&lt;<input type="number"&gt; para introducir los valores y analizamos los cambios que debemos realizar para el correcto funcionamiento. 
+Ponemos &lt;input type="number"&gt; para introducir los valores y analizamos los cambios que debemos realizar para el correcto funcionamiento. 
 No funiona debido al uso de document.write.
 ### 06-mult-inner.html
 Solucionamos el problema de visualización, usando innerHTML.
