@@ -15,7 +15,7 @@ Introducimos mediante prompt, el imite inferio y superior. Validamos las entrada
 ### 04-mult-semaforo.html
 Para obtener errores personalizados separamos las condiciones de error.
 ### 05-mult-input_error.html
-Ponemos '<input type="number">' para introducir los valores y analizamos los cambios que debemos realizar para el correcto funcionamiento. 
+Ponemos&lt;<input type="number"&gt; para introducir los valores y analizamos los cambios que debemos realizar para el correcto funcionamiento. 
 No funiona debido al uso de document.write.
 ### 06-mult-inner.html
 Solucionamos el problema de visualización, usando innerHTML.
